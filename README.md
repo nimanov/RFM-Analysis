@@ -1,5 +1,5 @@
 # **RFM Analysis**
-<img align=center src = "attachment:841fe85b-4cbd-417c-9c21-23c6415b9634.png" width="900" >
+![image](https://user-images.githubusercontent.com/48281477/133726503-d569c1e3-3579-4130-a3de-d6e74cc62b98.png)
 Content:
     
 1. [What is RFM Analysis](#1) 
