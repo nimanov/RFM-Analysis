@@ -11,15 +11,6 @@ Content:
 * [Definiton of Variables ](#4)
 * [Business goal ](#5)
    
-3. [Coding Part](#6)
-* [1. Loading the Dataset & Checking Variables](#6)
-* [2. Answering some analytical questions about the data](#7)
-* [3. Data preprocessing](#8)
-* [4. Getting R, F and M metrics](#9)
-* [5. Converting R, F and M metrices to R, F and M scores](#10)
-* [6. Calculating RFM score](#11)
-* [7. Segmenting customers using RFM score.](#12)
-4. [Conclusion](#13)
 <a id = "1"></a>
 # **What is RFM Analysis?**
 RFM analysis is a technique for categorizing customers based on their purchasing behavior. This segmentation method allows marketing teams to target customers with personalized marketing campaigns. Instead of analyzing the entire customer base as a whole, it's better to segment them into homogenous groups, understand the traits of each group, and engage them with relevant campaigns.
@@ -42,8 +33,6 @@ RFM stands for **R**ecency, **F**requency, and **M**onetary value. That means we
 
 and more
 
-#### **After a brief explanation of what is RFM let's move on to performing RFM to real-life data**
-
 
  <a id = "3"></a>
 ### **About the dataset :**
@@ -63,6 +52,3 @@ and more
 ### **Business goal**
 * We want to segement the Customers based on RFM so that the company can target its customers efficiently.
 
- <a id = "6"></a>
-# **Let's dive into coding part.**
-### 1. Loading the Dataset & Checking Variables
