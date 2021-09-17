@@ -21,7 +21,7 @@ RFM stands for **R**ecency, **F**requency, and **M**onetary value. That means we
 * **Monetary** : Sum of each purchase that has been made by each customer.  
 
  <a id = "2"></a>
-#### **What inforamtion we can reveal after performing RFM Analysis?**
+#### **What information we can reveal after performing RFM Analysis?**
 * Who are your best customers?
 * Which customers have a chance to churn?
 * Who has the potential to become valuable customers?
